@@ -1,0 +1,35 @@
+# Tabletop Pinball Machine
+
+## Overview
+Designed and built a fully functional tabletop pinball machine integrating mechanical design, embedded systems, and electrical hardware.
+
+---
+
+## 🧠 System Design
+- Structure fabricated using laser-cut wood
+- Components created with 3D printing
+- Designed for ball motion and gameplay interaction
+
+---
+
+## ⚡ Electrical & Control System
+- Arduino Uno used as controller
+- Integrated sensors and actuators
+- Programmed real-time control logic
+
+---
+
+## 🔗 Integration
+Integrated mechanical, electrical, and software subsystems into a working system.
+
+---
+
+## 📸 Images / Demo
+(Add images here later)
+
+---
+
+## 🧠 Key Takeaways
+- System integration across disciplines
+- Real-time embedded control
+- Hands-on hardware design
