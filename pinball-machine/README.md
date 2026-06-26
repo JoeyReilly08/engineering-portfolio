@@ -26,7 +26,7 @@ Integrated mechanical, electrical, and software subsystems into a working system
 
 ## 📸 Images 
 
----## Build Process
+## Build Process
 ![Build](./images/Pinball Machine.png)
 Designed and built a fully functional tabletop pinball machine integrating mechanical fabrication, embedded systems, and control logic. Manufactured structural components using laser-cut wood and 3D printing, and implemented game logic and hardware control using an Arduino Uno. Demonstrates hands-on experience in electromechanical system design, rapid prototyping, and embedded programming.
 
@@ -36,6 +36,7 @@ Designed and built a fully functional tabletop pinball machine integrating mecha
 ## Gameplay
 ![Gameplay](images/Pinball Machine.png)
 
+## CAD
 ![CAD](images/Pinball Machine - CAD.png)
 ## 🧠 Key Takeaways
 - System integration across disciplines
