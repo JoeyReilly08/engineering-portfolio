@@ -2,5 +2,5 @@ Joseph Reilly – Engineering Portfolio
 
 Mechanical Engineering student focused on systems engineering, RF radar systems, and hardware integration within aerospace environments.
 
-🔗[Joseph Reilly Resume](file://C:/Users/joeyj/Downloads/Joseph%20Reilly-Resume.pdf)
+🔗[Resume](file://C:/Users/joeyj/Downloads/Joseph%20Reilly-Resume.pdf)
 🔗 LinkedIn
